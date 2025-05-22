@@ -15,7 +15,7 @@ CeCe Luxury Style fashion website is built to create a semless shopping for our 
 # Donate to support us by sending  5$ to CeCe on 097-538159-72 or https://ceceluxury.pay.com/donate/5
 
 # Home page
-! [Home](screenshot/home.png.png)
+! [Home](screenshot/home.png)
 
 # About page
-! [Home](screenshot/arrivals.png.png)
+! [Home](screenshot/arrivals.png)
